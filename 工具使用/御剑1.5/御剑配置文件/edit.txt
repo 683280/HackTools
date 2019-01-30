@@ -1,0 +1,4 @@
+/admin/eWebEditor/Admin_Login.asp
+/Zblue/eWebEditor/admin/login.asp
+/eWebEditor/Admin_Login.asp
+/eWebEditor/admin

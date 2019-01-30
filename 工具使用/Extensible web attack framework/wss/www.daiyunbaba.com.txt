@@ -1,0 +1,144 @@
+www.daiyunbaba.com 	Microsoft-IIS/6.0 ASP.NET
+[代孕产子的流程 代孕产子价格 代孕产子公司]
+
+118.130.42.138 	cisco-IOS 
+[401 Unauthorized]
+
+118.130.42.139 	N/A 
+[Authorization Required]
+
+118.130.42.141 	Microsoft-IIS/6.0 ASP.NET
+[200 OK]
+
+118.130.42.142 	Microsoft-IIS/7.5 PHP/5.3.15
+[DJ]
+
+118.130.42.175 	Microsoft-IIS/6.0 ASP.NET
+[200 OK]
+
+118.130.42.200 	squid/2.7.STABLE8 
+[ERROR: The requested URL could not be retrieved]
+
+118.130.42.202 	Microsoft-HTTPAPI/2.0 
+[Not Found]
+
+118.130.42.201 	Microsoft-HTTPAPI/2.0 
+[Not Found]
+
+118.130.42.204 	nginx 
+[403 Forbidden]
+
+118.130.42.203 	squid/3.0.STABLE25 
+[503 Service Unavailable]
+
+118.130.42.207 	N/A 
+[400 Bad Request]
+
+118.130.42.206 	N/A 
+[400 Bad Request]
+
+118.130.42.209 	N/A 
+[400 Bad Request]
+
+118.130.42.210 	N/A 
+[400 Bad Request]
+
+118.130.42.212 	Apache 
+[403 Forbidden]
+
+118.130.42.213 	N/A 
+[400 Bad Request]
+
+118.130.42.214 	nginx 
+[403 Forbidden]
+
+118.130.42.218 	Tengine/1.4.6 
+[Welcome to tengine!]
+
+118.130.42.216 	nginx 
+[403 Forbidden]
+
+118.130.42.219 	Microsoft-HTTPAPI/2.0 
+[Not Found]
+
+118.130.42.220 	N/A 
+[400 Bad Request]
+
+118.130.42.222 	nginx 
+[403 Forbidden]
+
+118.130.42.221:8080 	bilynx/0.1.0 
+[404 Not Found]
+
+118.130.42.215 	Microsoft-IIS/6.0 PHP/5.2.17
+[不败战神最新章节,不败战神全文阅读 - 落伍文学网]
+
+118.130.42.223 	Microsoft-IIS/6.0 ASP.NET
+[绝世唐门最新章节,绝世唐门无弹窗广告 - 要爱中文网]
+
+118.130.42.217 	Microsoft-IIS/6.0 ASP.NET
+[大主宰最新章节,大主宰全文阅读,大主宰5200 - 异界小说网]
+
+118.130.42.219:8080 	Microsoft-IIS/7.5 ASP.NET
+[200 OK]
+
+118.130.42.208 	nginx 
+[403 Forbidden]
+
+118.130.42.224 	nginx 
+[403 Forbidden]
+
+118.130.42.226 	Microsoft-IIS/7.5 PHP/5.2.17
+[phpMyAdmin]
+
+118.130.42.229 	nginx/1.6.0 
+[403 Forbidden]
+
+118.130.42.230 	Apache/2.4.9 (Win32) OpenSSL/0.9.8y PHP/5.2.17 
+[Index of /]
+
+118.130.42.231 	nginx 
+[403 Forbidden]
+
+118.130.42.232 	nginx 
+[403 Forbidden]
+
+118.130.42.234 	nginx/1.6.0 
+[200 OK]
+
+118.130.42.235 	nginx/1.6.0 
+[200 OK]
+
+118.130.42.236 	Microsoft-HTTPAPI/2.0 
+[Not Found]
+
+118.130.42.240 	Microsoft-IIS/7.5 ASP.NET
+[IIS7]
+
+118.130.42.241 	N/A 
+[400 Bad Request]
+
+118.130.42.242 	nginx 
+[403 Forbidden]
+
+118.130.42.243 	Microsoft-HTTPAPI/2.0 
+[Not Found]
+
+118.130.42.244 	Microsoft-HTTPAPI/2.0 
+[Not Found]
+
+118.130.42.245 	Microsoft-IIS/7.5 ASP.NET
+[IIS7]
+
+118.130.42.246 	Apache/2 
+[200 OK]
+
+118.130.42.249 	nginx 
+[LNMP一键安装包 by Licess]
+
+118.130.42.250 	Microsoft-IIS/7.5 ASP.NET
+[首页_747游戏中心]
+
+119.194.159.9 	Microsoft-HTTPAPI/2.0 
+[Not Found]
+

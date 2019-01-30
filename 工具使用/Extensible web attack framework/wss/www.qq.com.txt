@@ -1,0 +1,483 @@
+www.qq.com 	squid/3.4.1 
+[лзя╤йврЁ]
+
+ilike.qq.com 	squid/3.4.1 
+[нр╣дйу╡ь_лзя╤мЬ]
+
+dy.qq.com 	squid/3.4.1 
+[нр╣д╤╘тд]
+
+mail.qq.com 	TWS 
+[QQсйоД]
+
+qzone.qq.com 	X2S_Platform 
+[QQ©у╪Д-╥жоМиЗ╩Нё╛аТв║╦п╤╞]
+
+sports.qq.com 	squid/3.4.1 
+[NBA_лзя╤лЕсЩ_лзя╤мЬ_NBAжп╧ЗйЩвжц╫лЕ╤ю╪р╧ы╥╫╨овВ╩О╟И]
+
+cul.qq.com 	squid/3.4.1 
+[лзя╤нд╩╞_лзя╤мЬ-к╪оК╡ът╢╣ь]
+
+finance.qq.com 	squid/3.4.1 
+[╦ш╧и_╡ф╬╜ф╣╣ю_лзя╤мЬ]
+
+xw.qq.com 	squid/3.4.1 
+[Х┘╬Х╝╞Г╫▒]
+
+t.qq.com 	nginx/1.5.7 
+[лзя╤н╒╡╘_дЦ╣дпдиЫё╛йю╫Г╣д╩ьиЫ]
+
+v.qq.com 	X2S_Platform 
+[лзя╤йсф╣-жп╧ЗвН╢Стзоъйсф╣ц╫лЕф╫л╗,╨ёа©╦ъгЕйсф╣тзоъ╧ш©╢]
+
+t.qq.com 	nginx/1.5.7 
+[лзя╤н╒╡╘_дЦ╣дпдиЫё╛йю╫Г╣д╩ьиЫ]
+
+dajia.qq.com 	nginx/1.5.7 
+[лзя╤ ║╓ ╢С╪р]
+
+ent.qq.com 	squid/3.4.1 
+[цВпг_лзя╤сИюж_лзя╤мЬ]
+
+news.qq.com 	squid/3.4.1 
+[╡ЫЁЩ╠╘©жрТйсф╣в╗оНпп╤╞_лзя╤мЬ]
+
+mil.qq.com 	squid/3.4.1 
+[╬Эйб_пбнежппд_лзя╤мЬ]
+
+book.qq.com 	nginx 
+[лзя╤ндя╖ - ндвжж╝цюё╛╦п╤╞пдаИ]
+
+yue.qq.com 	squid/3.4.1 
+[рТюж_лзя╤сИюж_лзя╤мЬ]
+
+class.qq.com 	Apache 
+[лзя╤╬╚ф╥©н - хцЁиЁ╓╪скыё║]
+
+guanjia.qq.com 	HTTP Load Balancer/2.0 
+[╣Гдт╧э╪р - 2015 QQ╣х╪╤ты╪скы ╩╤юж╡╩мё╡╫]
+
+history.qq.com 	squid/3.4.1 
+[╫Яху╩╟лБюЗй╥╟Ф_лзя╤мЬ]
+
+abroad.qq.com 	Tencent Login Server/2.0.0 
+[вН╬ъ╪шж╣╣дЁЖ╧Зце╩╖_лзя╤ЁЖ╧З_лзя╤╫лсЩ_лзя╤мЬ]
+
+health.qq.com 	squid/3.4.1 
+[╫║©╣ф╣╣ю_лзя╤мЬ]
+
+fashion.qq.com 	squid/3.4.1 
+[хКаВ_╬╚╡йв╗лБ_й╠ипф╣╣ю_лзя╤мЬ]
+
+kb.qq.com 	squid/3.4.1 
+[©Л╠╗]
+
+baby.qq.com 	squid/3.4.1 
+[сЩ╤Ыф╣╣ю_лзя╤мЬ]
+
+pp.qq.com 	Tencent Login Server/2.0.0 
+[м╪ф╛ф╣╣ю_пбнежппд_лзя╤мЬ]
+
+edu.qq.com 	squid/3.4.1 
+[╫лсЩф╣╣ю_лзя╤мЬ]
+
+auto.qq.com 	squid/3.4.1 
+[лзя╤фШЁ╣_лзя╤мЬ]
+
+gongyi.qq.com 	squid/3.4.1 
+[лзя╤╧╚рФ]
+
+hea.qq.com 	squid/3.4.1 
+[╪р╣Гф╣╣ю_лзя╤©ф╪╪_лзя╤мЬ]
+
+kid.qq.com 	squid/3.4.1 
+[лзя╤╤Ым╞_лзя╤мЬ]
+
+thinker.qq.com 	squid/3.4.1 
+[лзя╤к╪оМ╩А_лзя╤нд╩╞_лзя╤мЬ]
+
+house.qq.com 	squid/3.4.1 
+[╥©╡Зф╣╣ю_лзя╤мЬ]
+
+film.qq.com 	NWS_SSD_MID 
+[п║яРп╓╤В - ╨цюЁнКс╟т╨ - лзя╤йсф╣]
+
+tech.qq.com 	squid/3.4.1 
+[©ф╪╪ф╣╣ю_лзя╤мЬ]
+
+games.qq.com 	squid/3.4.1 
+[лзя╤сно╥ф╣╣ю║╙вНспс╟оЛа╕╣дсно╥ц╫лЕ]
+
+stock.qq.com 	squid/3.4.1 
+[ж╓х╞_╡ф╬╜ф╣╣ю_лзя╤мЬ]
+
+foxue.qq.com 	squid/3.4.1 
+[лзя╤╥Пя╖]
+
+15.qq.com 	squid/3.4.1 
+[ж╠╡╔_нрцг15╦Ж_лзя╤йсф╣]
+
+ac.qq.com 	openresty 
+[╤╞бЧ - лзя╤╤╞бЧ╧ы╥╫мЬу╬ - йврЁ]
+
+vip.qq.com 	Apache 
+[QQ╩Ат╠ - VIPдЗ╣диЗ╩Н]
+
+pc.qq.com 	HTTP Load Balancer/2.0 
+[лзя╤хМ╪Чжппд-╣Гдт╧э╪р-QQф╢рТ-QQс╟рТ-TTД╞ююфВ-QQпЩ╥Г-лзя╤хМ╪Чобтьф╫л╗]
+
+im.qq.com 	nginx/0.8.53 
+[I'm QQ - ц©р╩лЛё╛южтз╧╣м╗]
+
+weixin.qq.com 	N/A 
+[н╒пеё╛йгр╩╦ЖиЗ╩Н╥╫й╫]
+
+iwan.qq.com 	N/A 
+[лзя╤╟╝мФ]
+
+x5.qq.com 	NWS_X2_MID 
+[QQЛенХ-QQЛенХ╧ы╥╫мЬу╬-лзя╤сно╥-©╙фТ╢СрТюжнХ╣╦мЬснй╠╢З]
+
+17roco.qq.com 	Apache 
+[бЕ©кмУ╧З-Roco kingdom-╧ы╥╫мЬу╬-╫Ь╩╞ё║нр╣д©ЛюжмУ╧З]
+
+cf.qq.com 	X2_Platform 
+[жьнбу╫Ё║оРс╒пшжб╬╢-╢╘т╫╩Поъ╧ы╥╫мЬу╬-лзя╤сно╥]
+
+lol.qq.com 	NWS_X2_MID 
+[с╒пша╙цк-LOL-╧ы╥╫мЬу╬-лзя╤сно╥-с╒пшё╛н╙дЦ╤Ьу╫]
+
+moba.qq.com 	NWS_X2_MID 
+[х╚цЯЁ╛иЯ-╧ы╥╫мЬу╬-х╚гРйв©Н5V5й╣й╠MOBA╣Г╬╨йжсн]
+
+age.qq.com 	NWS_X2_MID 
+[ио╧ейю╪м-AGE-╧ы╥╫мЬу╬-лзя╤сно╥-╣зхЩ╢ЗмЬснё╛уБр╩╢н╦д╠Дйю╫Г]
+
+huoying.qq.com 	nginx 
+[╩Пж╝рБж╬ спдЦ╪лЁп-╩Пс╟хлуъ╧ы╥╫мЬу╬-лзя╤сно╥]
+
+player.qq.com 	HTTP Load Balancer/2.0 
+[QQс╟рТобть╧ы╥╫мЬу╬]
+
+ke.qq.com 	tws 
+[404рЁцФ_лзя╤©нлц_в╗р╣╣дтзоъ╫лсЩф╫л╗(ke.qq.com)]
+
+pcmgr.qq.com 	HTTP Load Balancer/2.0 
+[р╩╪Эи╠╤╬_╣а╨е╠ё╩╓_ю╛╩ЬгЕюМ_хМ╪Ч╧эюМ-лзя╤╣Гдт╧э╪р╧ымЬ]
+
+nz.qq.com 	X2_Platform 
+[дФу╫╧ы╥╫мЬу╬-х╚дёй╫иД╩Вф╫л╗мЬсн-лзя╤сно╥]
+
+m.qq.com 	HTTP Load Balancer/1.0 
+[йж╩Зи╠╤╬_йж╩З╟╡х╚_╟╡х╚╧э╪р_лЕ╪Л╪скы_лзя╤йж╩З╧э╪р╧ы╥╫мЬу╬]
+
+dnf.qq.com 	nginx 
+[╣ьобЁгсКсбй©-DNF-╧ы╥╫мЬу╬-лзя╤сно╥-╦Я╤╥мЬснмУуъж╝вВ,300мРм╛й╠тзоъ]
+
+y.qq.com 	org-imgcache 
+[QQрТюж-рТюждЦ╣диЗ╩Нё║]
+
+pay.qq.com 	Apache 
+[йврЁ - лзя╤ЁДж╣жппд]
+
+xf.qq.com 	nginx 
+[QQпЩ╥Гобть╧ы╥╫мЬу╬]
+
+icare.qq.com 	nginx/1.5.7 
+[╢С╪р╟╝©╢_лзя╤мЬ]
+
+show.qq.com 	QZHTTP-2.38.18 
+[QQпЦ - йм╥енр╡╩╥╡]
+
+eafifa.qq.com 	nginx 
+[FIFA Online 3вЦгРтзоъ╧ы╥╫мЬу╬-лзя╤сно╥]
+
+image.qq.com 	HTTP Load Balancer/2.0 
+[QQс╟оЯобть╧ы╥╫мЬу╬]
+
+go.qq.com 	NWS_X2_MID 
+[QQГ╫▒Х╢╜б╥Ф≈┘Ф╦╦ - QQФ≈┘Ф╦╦ - Ф°╨Г╔╗И╒└Х╝╒ - И┘▓Е╨≈И╒└Х╝╒ - Ф≈┘Ф╦╦Ф■╩Г∙╔ - Ф≈┘Ф╦╦Е⌡╒Х╢╜]
+
+py.qq.com 	nginx/1.6.2 
+[QQйДхК╥╗]
+
+jf.qq.com 	nginx 
+[хЩ╠╘иые╝яЬЁи╪г-╪╡╥Гж╝хп 3D╤╞бЧ╥ГЁ╛╤╞вВмЬсн-╧ы╥╫мЬу╬-лзя╤сно╥]
+
+bns.qq.com 	NWS_X2_MID 
+[╫ёаИ╧ы╥╫мЬу╬-лзя╤сно╥]
+
+yl.qq.com 	nginx 
+[сЫаЗтзлЛ╧ы╥╫мЬу╬-лзя╤╣зр╩╧Зу╫мЬсн-лзя╤сно╥]
+
+dzs.qq.com 	nginx 
+[╤╥у╫иЯ-DZS-╧ы╥╫мЬу╬-лзя╤сно╥-©╙╥ей╫у╫╤╥2.0мЬсн]
+
+qqgame.qq.com 	nginx 
+[QQФ╦╦Ф┬▐ - Ф≈═Е╓└Д╦█Е°╗Г └Е©╚Д╧░ - Х┘╬Х╝╞Ф╦╦Ф┬▐]
+
+tps.qq.com 	nginx 
+[п╚с╟цтвы-г╧иЯ╪м╧ы╥╫мЬу╬-лзя╤сно╥]
+
+qqapp.qq.com 	QZHTTP-2.38.18 
+[QQе╘Ё║ - лзя╤с╕сцжппд]
+
+gu.qq.com 	ngx_openresty/1.2.6.6 Express
+[жпж╓лз╟╡(000847)_╡ф╬╜ф╣╣ю_лзя╤мЬ]
+
+nba2k.qq.com 	nginx 
+[║╤NBA2K Online║╥╧ы╥╫мЬу╬-тзуБюОё╛дЦ╬мйгMVP-лзя╤сно╥]
+
+speed.qq.com 	NWS_X2_MID 
+[QQ╥иЁ╣╧ы╥╫мЬу╬-лзя╤сно╥-╬╨кымЬснмУуъ м╩фф300мРм╛й╠тзоъ]
+
+wefire.qq.com 	nginx 
+[г╧тзйж кФй╠у╫ - х╚цЯм╩╩В╧ы╥╫мЬу╬ - лзя╤сно╥]
+
+cb.qq.com 	Apache 
+[Е╫╘Х╢²Г╖╞Е┬├-Ф▀╬Е▒ЁГ■÷Ф╢╩О╪▄Х╢²Ф╥╩Х┴╡Е╫╘ | Г╫▒Д╦┼Х╢╜Г┴╘Х©■Е╫╘Х╢² | Е∙├Ф≈┘И╒└Х╝╒Х©■Е╫╘Х╢² | Е╫╘Х╢²Г╖╞Е┬├Е╫⌠И▓╠Г■╗]
+
+automall.qq.com 	Apache 
+[лзя╤фШЁ╣]
+
+pim.qq.com 	HTTP Load Balancer/2.0 
+[QQм╛╡╫жЗйж--╠╦╥щнр╣дйж╩ЗиЗ╩Н]
+
+piao.qq.com 	Apache 
+[200 OK]
+
+map.qq.com 	HTTP Load Balancer/1.0 
+[Х┘╬Х╝╞Х╥╞Е╝² - Д╦╨И╘╬И╘╤Х─▄Г■÷]
+
+xy.qq.com 	nginx 
+[пЫт╞╢╚фФ╧ы╥╫мЬу╬-лзя╤сно╥-лзя╤йв©Н3DгЁ╧ФтРу╫╤╥мЬсн]
+
+gaopeng.qq.com 	Apache 
+[QQме╧╨ - ╣Гс╟ ║╓ илх╕ ║╓ ╬╚ф╥иЗ╩Н - уР╫╜ме╧╨мЬу╬]
+
+chuangshi.qq.com 	nginx 
+[нД╪╚╫ёй╔вНпбуб╫з_нД╪╚╫ёй╔txtобть_нД╪╚╫ёй╔нч╣╞©Р_нД╪╚╫ёй╔╤ю╪рйв╥╒_╢╢йюжпндмЬ]
+
+yunqi.qq.com 	nginx 
+[йчЁХхТ╬╙ё╨лПпд╠╕╠╢л╚╢ТцхвНпбуб╫з_йчЁХхТ╬╙ё╨лПпд╠╕╠╢л╚╢Тцхtxtобть_йчЁХхТ╬╙ё╨лПпд╠╕╠╢л╚╢Тцхнч╣╞©Р_йчЁХхТ╬╙ё╨лПпд╠╕╠╢л╚╢Тцх╤ю╪рйв╥╒_тффПйИт╨]
+
+dushu.qq.com 	nginx Yuewen
+[лзя╤ндя╖Ё╘оЗм╪йИ]
+
+xiaoshuo.qq.com 	nginx Yuewen
+[╪Р╫ИрЁ-2015ц╘╤эндя╖╩Я╫╠вВф╥ё╨╩фх╦╪г]
+
+888.qq.com 	nginx 
+[QQ╡йф╠ - лзя╤песЧ,╦ёюШ╡йф╠,лЕсЩ╡йф╠м╤в╒]
+
+college.qq.com 	nginx 
+[т╨пёи╦я║_сея║пё╧З╪й╟Ф_лзя╤мЬ]
+
+comic.qq.com 	squid/3.4.1 
+[лзя╤╤╞бЧф╣╣ю]
+
+rufodao.qq.com 	squid/3.4.1 
+[╦Ь╩й╣ш╣╠юофеё╛дЙы╨╤Юиыг╝ё©_хЕ╥П╣юф╣╣ю_лзя╤мЬ]
+
+ru.qq.com 	squid/3.4.1 
+[лзя╤хЕя╖]
+
+open.qq.com 	Apache 
+[лзя╤©╙╥еф╫л╗	OPEN.QQ.COM]
+
+kf.qq.com 	nginx/1.4.7 
+[лзя╤©м╥Ч-йврЁ]
+
+dao.qq.com 	squid/3.4.1 
+[лзя╤╣юя╖]
+
+support.qq.com 	Apache/2.2.15 (CentOS) 
+[лзя╤╡Зф╥╫╩аВ]
+
+sh.qq.com 	squid/3.4.1 
+[лзя╤║╓╢СиЙмЬ - ио╨ёЁгйпиЗ╩Нце╩╖]
+
+cd.qq.com 	squid/3.4.1 
+[лзя╤║╓╢СЁимЬ - кд╢╗╣зр╩иЗ╩Нце╩╖]
+
+mygd.qq.com 	squid/3.1.18 
+[╢СтаиГгЬ_лзя╤║╓╢СтамЬ]
+
+mycq.qq.com 	squid/3.1.18 
+[╢СсЕиГгЬ║╙║╙вНжьгЛё╛вНсп╟╝╣дмЬбГиГгЬ,вНжьгЛбшлЁ,вН╠╬мабшлЁ,жьгЛвН╬ъс╟оЛа╕бшлЁ]
+
+xian.qq.com 	squid/3.4.1 
+[лзя╤║╓╢СгьмЬ║╙ибнВЁгйпиЗ╩НжВаВц╫лЕ]
+
+zj.qq.com 	squid/3.4.1 
+[лзя╤║╓╢СуЦмЬ - уЦ╫╜ЁгйпиЗ╩Нце╩╖]
+
+mysh.qq.com 	squid/3.1.18 PHP/5.4.10
+[╣╪╤а-вНпбххце - ╢СиЙиГгЬ]
+
+mycd.qq.com 	squid/3.1.18 
+[╢СЁииГгЬ - лзя╤╢СЁимЬ]
+
+hb.qq.com 	squid/3.4.1 
+[лзя╤║╓╢СЁЧмЬ-╨Ч╠╠вН╢С╣дце╩╖мЬу╬]
+
+henan.qq.com 	squid/3.4.1 
+[лзя╤║╓╢Ст╔мЬ_╨сдо╣зр╩мЬ]
+
+myzj.qq.com 	squid/3.1.18 
+[╢СуЦмЬиГгЬ]
+
+myfj.qq.com 	squid/3.1.18 
+[╢СцЖиГгЬ_╦ёжщбшлЁ_╦ёжщиГгЬ_╦ёжщиЗ╩Н╥жоМиГгЬ_лзя╤║╓╢СцЖмЬ]
+
+btrace.qq.com 	nginx/1.6.0 
+[200 OK]
+
+mybj.qq.com 	squid/3.1.18 
+[╢СяЮиГгЬ_лзя╤╢СяЮмЬ_╬╘╫Р╪╫ЁгйпиЗ╩Н╣зр╩ф╫л╗]
+
+myxian.qq.com 	squid/3.1.18 PHP/5.4.10
+[╣╪╤а-вНпбххце - ╢СгьиГгЬ]
+
+myhenan.qq.com 	squid/3.1.18 
+[╢Ст╔мЬ_╨сдо╣зр╩мЬ_лзя╤╨сдоф╣╣ю]
+
+myhb.qq.com 	squid/3.1.18 PHP/5.4.10
+[╣╪╤а-вНпбххце - ╢СЁЧиГгЬ]
+
+myjs.qq.com 	squid/3.1.18 
+[╢СкуиГгЬ_лзя╤&middot;╢СкумЬ_╫╜ку╣зр╩ЁгйпиЗ╩Нце╩╖]
+
+hn.qq.com 	squid/3.4.1 
+[лзя╤║╓╢СоФмЬ_╨Чдо╣зр╩ЁгйпиЗ╩Нце╩╖]
+
+fj.qq.com 	squid/3.4.1 
+[лзя╤║╓╢СцЖмЬ - ╦ё╫╗╣зр╩иЗ╩Нце╩╖]
+
+myhebei.qq.com 	squid/3.1.18 
+[╢СяЮ╨с╠╠иГгЬ_лзя╤╢СяЮмЬ_╬╘╫Р╪╫ЁгйпиЗ╩Н╣зр╩ф╫л╗]
+
+gd.qq.com 	squid/3.4.1 
+[лзя╤║╓╢СтамЬё╜ ╧Ц╤╚вН╢С╣дЁгйпиЗ╩НмЬбГф╫л╗]
+
+ln.qq.com 	squid/3.4.1 
+[лзя╤║╓╢СаимЬ-аидЧ╣зр╩ЁгйпиЗ╩Нце╩╖]
+
+mytj.qq.com 	squid/3.1.18 
+[╢СяЮлЛ╫РиГгЬ_лзя╤╢СяЮмЬ_╬╘╫Р╪╫ЁгйпиЗ╩Н╣зр╩ф╫л╗]
+
+myhn.qq.com 	squid/3.1.18 PHP/5.4.10
+[╣╪╤а-вНпбххце - ╢СоФиГгЬ ║╓ пгиЗ╩Н]
+
+myln.qq.com 	squid/3.1.18 PHP/5.4.10
+[╣╪╤а-вНпбххце - ╢СаииГгЬ]
+
+js.qq.com 	squid/3.4.1 
+[лзя╤║╓╢СкумЬ-╫╜ку╣зр╩ЁгйпиЗ╩Нце╩╖]
+
+service.qq.com 	nginx/1.4.7 
+[лзя╤©м╥Ч-йврЁ]
+
+cq.qq.com 	squid/3.4.1 
+[лзя╤║╓╢СсЕмЬ - жьгЛЁгйпиЗ╩Н╣зр╩це╩╖]
+
+browser.qq.com 	HTTP Load Balancer/2.0 
+[QQФ╣▐Х╖┬Е≥╗9Е╝≤Ф√╧Г╫▒Г╚≥ - Ф╣▐Х╖┬Е≥╗_Ф╣▐Х╖┬Е≥╗Д╦▀Х╫╫_Е╬╝Д©║Г■╣Х└▒Г┴┬]
+
+i.qq.com 	X2S_Platform 
+[QQ©у╪Д-╥жоМиЗ╩Нё╛аТв║╦п╤╞]
+
+connect.qq.com 	tws 
+[QQ╩╔а╙]
+
+connect.qq.com 	tws 
+[QQ╣гб╪--QQ╩╔а╙]
+
+exp.qq.com 	nginx 
+[200 OK]
+
+nikerise.qq.com 	N/A 
+[NIKE ╢РЁЖцШлц]
+
+rss.qq.com 	squid/3.4.1 
+[лзя╤мЬRSSф╣╣ю╬ш╨о]
+
+coral.qq.com 	nginx HHVM/3.7.3-dev
+[ц╘╤эндя╖╫╠╫роЧнЕ╡©╩Я╫╠вВф╥]
+
+ebook.qq.com 	nginx Yuewen
+[Ё╘оЗйИхкфЬ╟Я]
+
+ubook.qq.com 	X2_Platform 
+[лзя╤ндя╖йж╩Зце╩╖]
+
+tajs.qq.com 	nginx/1.5.7 PHP/5.3.13
+[200 OK]
+
+laidian.qq.com 	nginx 
+[║╦ю╢╣Г║╧ - йж╩ЗвЫ╩ЗцБ╥я╢Р]
+
+lady.qq.com 	squid/3.4.1 
+[лзя╤е╝пт_лзя╤мЬ]
+
+123.qq.com 	squid/3.4.1 
+[циеёкАкАхИжпа╙╟ЯйврЁ_лзя╤сИюж_лзя╤мЬ]
+
+yc.qq.com 	nginx 
+[п║к╣тд╤а_тффПйИт╨|цБ╥яп║к╣,пЧ╩цп║к╣,нДоюп║к╣,гЮ╢╨п║к╣,п║к╣мЬ╦ВюЮп║к╣обть]
+
+luxury.qq.com 	squid/3.4.1 
+[й╠ипф╣╣ю_лзя╤мЬ]
+
+wsq.qq.com 	nginx 
+[Х┐║Ф╜▄]
+
+kuaibao.qq.com 	nginx 
+[©Л╠╗-©╢дЦоК©╢ё╛к╣дЦоКк╣]
+
+zc.qq.com 	nginx 
+[QQв╒╡А]
+
+ztjdh.qq.com 	nginx 
+[тЯлЛ╪г╤╞╩╜жВлБу╬]
+
+tgp.qq.com 	nginx 
+[╪╚кы╟ФмФсно╥╬мйгк╛ - лзя╤сно╥ф╫л╗╧ымЬ - лзя╤сно╥]
+
+thr.qq.com 	squid/3.4.1 
+[The Hollywood Reporterжпнду╬_лзя╤сИюж_лзя╤мЬ]
+
+weishi.qq.com 	Apache 
+[н╒йс]
+
+imgcache.qq.com 	nginx/1.6.0 
+[404]
+
+jubao.qq.com 	Apache 
+[лАй╬пео╒]
+
+xiaoqi.qq.com 	squid/3.4.1 
+[иЯх╝п║фъ╧ы╥╫мЬу╬-лзя╤йсф╣]
+
+oneday.qq.com 	N/A 
+[жп╧Зхк╣др╩лЛ_лзя╤пбне_лзя╤мЬ]
+
+boao.qq.com 	squid/3.4.1 
+[╡╘В║ягжчбшлЁ2015дЙдЙ╩А_лзя╤╡ф╬╜_лзя╤мЬ]
+
+golf.qq.com 	squid/3.4.1 
+[╦ъ╤Ш╥Рф╣╣ю_лзя╤лЕсЩ_лзя╤мЬ]
+
+fcbarcelona.qq.com 	squid/3.4.1 
+[╟мхШбчдгжпнд╧ымЬ|FC Barcelona Web Oficial]
+
+cp.qq.com 	squid/3.4.1 
+[лзя╤╡йф╠_лзя╤мЬ_вНв╗р╣╣д╡йф╠вйя╤ф╫л╗]
+
+gaokao.qq.com 	Tencent Login Server/2.0.0 
+[╦ъ©╪ф╣╣ю_лзя╤мЬ]
+
+panshi.qq.com 	nginx/1.4.4-omg 
+[мЬбГ╣В╡И_лзя╤мЬ]
+
